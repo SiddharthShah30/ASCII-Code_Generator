@@ -1,13 +1,6 @@
-Got it — I’ll give you the **first README**, same structure and quality, just **cleaned of all emojis** and kept professional.
-
-Here it is, ready to paste into `README.md`:
-
 ---
 
 # ASCII Banner Generator
-
-A lightweight Python CLI tool that converts user input into stylized ASCII art banners and saves the output to a file.
-Useful for terminal branding, project headers, CLI apps, or simple text styling.
 
 ---
 
