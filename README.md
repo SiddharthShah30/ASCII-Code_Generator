@@ -1,9 +1,3 @@
----
-
-# ASCII Banner Generator
-
----
-
 ## Table of Contents
 
 * [Features](#features)
